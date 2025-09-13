@@ -1,6 +1,4 @@
 <<<<<<< HEAD
 qualquer coisa em txt 
 carimbo a vingança daqueles que não foram
-=======
-qualquer coisa em txt (secunda alteração para  o feature/alteração 2
->>>>>>> 6de820984fd21a6f21373590e9241151271e7f6b
+
