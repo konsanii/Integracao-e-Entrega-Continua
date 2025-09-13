@@ -1,4 +1,9 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 qualquer coisa em txt 
 carimbo a vingança daqueles que não foram
 
+=======
+qualquer coisa em txt (secunda alteração para  o feature/alteração 2
+ultima alteração
+>>>>>>> Stashed changes
