@@ -1,1 +1,4 @@
-qualquer coisa em txt (secunda alteração para  o feature/alteração 2
+<<<<<<< HEAD
+qualquer coisa em txt 
+carimbo a vingança daqueles que não foram
+
